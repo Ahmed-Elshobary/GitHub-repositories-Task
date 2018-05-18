@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  GitHubTask
+
+  Created by ahmed el shobary on 5/18/18.
+  Copyright © 2018 ahmed el shobary. All rights reserved.
+*/
+"list of repositories" = "قائمة المستودعات";
+"No Results" = "لا توجد نتائج";
+"Search" = "بحث";
+"Subscribers" = "المشتركين";
+"Error" = "خطآ";
+"ok" = "موافق";
+

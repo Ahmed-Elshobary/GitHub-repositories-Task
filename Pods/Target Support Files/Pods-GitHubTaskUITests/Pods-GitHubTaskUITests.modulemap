@@ -1,0 +1,6 @@
+framework module Pods_GitHubTaskUITests {
+  umbrella header "Pods-GitHubTaskUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
